@@ -1,3 +1,15 @@
+/*************************************************************
+*  Project: TrieContact - A Fast Trie-based Contact Manager
+*  Description: Console-based C++ contact book with auto-suggestions
+*               using two Tries for names and numbers.
+*
+*  Author: Tushar (@tusharb-25)
+*  GitHub: https://github.com/tusharb-25/TrieContact
+*  Date: July 2025
+*  Language: C++
+*************************************************************/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
